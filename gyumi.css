@@ -1,0 +1,20 @@
+h1 {
+font-variant: small-caps;
+}
+h2{
+    font-size: xx-large;
+}
+p{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.felkover{
+    font-size: 110%;
+}
+.dolt{
+    font-style: italic;
+}
+#main_title{
+    font-family: "Ga Maamli", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}

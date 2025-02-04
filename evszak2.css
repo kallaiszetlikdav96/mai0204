@@ -1,0 +1,33 @@
+.spring {
+    color: green;
+    font-variant: small-caps;
+    font-stretch: semi-expanded 200%;
+}
+
+.summer {
+    color: goldenrod;
+    font-size: 1,4em;
+}
+
+.autumn {
+    color: firebrick;
+    font-size: 300%;
+}
+
+.winter {
+    color: dodgerblue;
+    font-size: xx-large;
+    font-style: italic;
+}
+
+#main_title {  
+    color: midnightblue;
+    font-family: "Yuji Mai", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+p{
+    font-weight: bold;
+
+    font-stretch: expanded 2000%;
+}
